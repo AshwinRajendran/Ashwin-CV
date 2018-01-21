@@ -1,5 +1,5 @@
 # Site Settings
-title: My Resume
+title: 'My Resume'
 url: 'http://webjeda.com'
 baseurl: '/online-cv' #change it according to your repository name
 
@@ -14,7 +14,7 @@ baseurl: '/online-cv' #change it according to your repository name
 name: Ashwin Rajendran
 tagline: Business Analyst
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-summary: 'Business Data Analyst with 4+ years of experience in analyzing, visualizing data and providing business related solutions. Aiming to utilize my strong skills and analytical abilities to fulfill the organization’s goals. Possess a Masters in Technology Management and Innovation from New York University. '
+summary: 'Business Data Analyst with 4+ years of experience in analyzing, visualizing data and providing business related solutions. Aiming to utilize my strong skills and analytical abilities to fulfill the organizationâ€™s goals. Possess a Masters in Technology Management and Innovation from New York University. '
 
 #sidebar links
 email: ashwinraj@nyu.edu
