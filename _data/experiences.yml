@@ -19,10 +19,16 @@
   magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
   pellentesque eu, pretium quis, sem."
 - experience:
-  role: UI Developer
-  time: 2012 - 2014
-  company: Amazon, London
-  details: "Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing
-  elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et
-  magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec,
-  pellentesque eu, pretium quis, sem."
+  role: Business Data Analyst 
+  time: 2012 - 2015
+  company: Wipro Technologies, India
+  details: "•	Created predictive models for the stock prices using R and integrated it with Tableau.
+•	Created dashboards to present summary statistics of the claims and plotted their geographic locations.
+•	Performed Statistical Analysis and presented the region-wise trends of the claims. 
+•	Connected Tableau server to publish dashboard to a central location for portal integration.
+•	Implemented software development process based on Agile methodology.
+•	Designed/developed tables, utilized SQL queries to update new customers in the client database, create script, gather and manipulate information from Oracle. 
+•	Performed discussions with data modeler to update the data model for new requirements   
+•	Moderated our team as a Scrum Master and effectively communicated the project information.
+•	Elicited requirements from stakeholders analysed and transformed them into BRD and SRS documents. 
+"
