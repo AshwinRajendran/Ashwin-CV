@@ -1,4 +1,4 @@
-# Site Settings
+﻿# Site Settings
 title: 'My Resume'
 url: 'http://webjeda.com'
 baseurl: '/' #change it according to your repository name
@@ -12,7 +12,7 @@ baseurl: '/' #change it according to your repository name
 
 #Profile information
 name: Ashwin Rajendran
-tagline: Business Analyst
+tagline: Business Data Analyst
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 summary: 'Business Data Analyst with 4+ years of experience in analyzing, visualizing data and providing business related solutions. Aiming to utilize my strong skills and analytical abilities to fulfill the organization’s goals. Possess a Masters in Technology Management and Innovation from New York University. '
 
