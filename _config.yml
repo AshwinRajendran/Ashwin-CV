@@ -1,6 +1,6 @@
 ﻿# Site Settings
 title: 'My Resume'
-url: 'http://webjeda.com'
+url: ''
 baseurl: '/' #change it according to your repository name
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
@@ -22,7 +22,7 @@ phone: +1(201)889-9959
 website: blog.webjeda.com #do not add http://
 linkedin: ashwinrajendran
 github: AshwinRajendran
-twitter: '@webjeda'
+twitter: '@'
 #Update all the sections by editing the files inside _data folder.
 
 # Tracker
