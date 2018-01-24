@@ -1,11 +1,12 @@
 - intro:
-  description: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
-  sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
+  description: 
 
 - project:
   title: Velocity
   link: "#hook"
-  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  tagline: "Citibike Descriptive<br>							                			     Jan 2017 – May 2017
+•	Performed statistical analysis to provide recommendations on inventory management and pricing strategy.<br>•	Analysed historical data and developed comparable models in R to allocate a budget for Citi-Bike based on gender segmentation and presented using Tableau Dashboard."
+
 - project:
   title: DevStudio
   link: "#"
