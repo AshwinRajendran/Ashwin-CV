@@ -2,7 +2,9 @@
   role: Data Analyst
   time: 2017 - Present
   company: WPP Coretech, New York
-  details: "Provided statistical solutions for analysing operational challenges in software development for CoreTech. •	Conducted exploratory analysis, hypothesis testing and linear modelling with R. 
+  details: "Provided statistical solutions for analysing operational challenges in software development for CoreTech.
+  	<br>
+	Conducted exploratory analysis, hypothesis testing and linear modelling with R. 
 	<br>
 	Built a K-means clustering model to classify the developers with identified features.
 	<br>
