@@ -1,20 +1,20 @@
 - experience:
   role: Data Analyst
-  time: 2017 - Present
+  time: Sept 2017 - Dec 2017
   company: WPP Coretech, New York
-  details: "Provided statistical solutions for analysing operational challenges in software development for CoreTech.
+  details: "1. Provided statistical solutions for analysing operational challenges in software development for CoreTech.
   <br>
-	Conducted exploratory analysis, hypothesis testing and linear modelling with R. 
+	2. Conducted exploratory analysis, hypothesis testing and linear modelling with R. 
 	<br>
-	Built a K-means clustering model to classify the developers with identified features.
+	3. Built a K-means clustering model to classify the developers with identified features.
 	<br>
-	Executed ETL tasks on relational data with SQL.
+	4. Executed ETL tasks on relational data with SQL.
 	<br>
-	Implemented automated data extraction and cleaning scripts with UNIX. 
+	5. Implemented automated data extraction and cleaning scripts with UNIX. 
 	<br>
-	Represented insights to clients through visualizations built with Tableau & R.
+	6. Represented insights to clients through visualizations built with Tableau & R.
 	<br>
-	Performed Hypothesis tests, Chi-squared, Student t-test, ANOVA & Regression."
+	7. Performed Hypothesis tests, Chi-squared, Student t-test, ANOVA & Regression."
 - experience:
   role: Business Data Analyst Intern
   time: May 2016 - Dec 2016
