@@ -4,31 +4,31 @@
   company: WPP Coretech, New York
   details: "- Provided statistical solutions for analysing operational challenges in software development.
   <br>
-	- Conducted exploratory analysis, hypothesis testing and linear modelling with R. 
+	-  Conducted exploratory analysis, hypothesis testing and linear modelling with R. 
 	<br>
-	- Built a K-means clustering model to classify the developers with identified features.
+	-  Built a K-means clustering model to classify the developers with identified features.
 	<br>
-	- Executed ETL tasks on relational data with SQL.
+	-  Executed ETL tasks on relational data with SQL.
 	<br>
-	- Implemented automated data extraction and cleaning scripts with UNIX. 
+	-  Implemented automated data extraction and cleaning scripts with UNIX. 
 	<br>
-	- Represented insights to clients through visualizations built with Tableau & R.
+	-  Represented insights to clients through visualizations built with Tableau & R.
 	<br>
-	- Performed Hypothesis tests, Chi-squared, Student t-test, ANOVA & Regression."
+	-  Performed Hypothesis tests, Chi-squared, Student t-test, ANOVA & Regression."
 - experience:
   role: Business Data Analyst Intern
   time: May 2016 - Dec 2016
   company: Estee Lauder, New York
-  details: "- &nbsp; Created & updated Business requirements, converting them into reports, visualizations and design documents.<br>
-	-&nbsp;Performed data analysis and built predictive models (MySQL, Excel, R –Hypothesis testing, ANOVA, Regression)<br>
-	-&nbsp;Wrote SQL queries to pull the North Americas sales data and visualized the sales statistics. <br>
-	-Developed Visualizations using Cross tables, Bar Charts, Pie Charts, Donuts Charts, Maps, Line Charts, Scatter Plots and Filters, Marking, Drill Down, Hierarchies and Colouring. (Tableau, R - ggplot)<br>
-	-Joined tables, created charts and performed advanced calculations using Excel VLOOKUP and pivot table.<br>
-	-Used ETL process and developed OLAP cube to analyse the region wise product sales.<br>
-	-Created test plans, test cases, test scripts for User Acceptance Testing, Regression testing & Integration testing.<br> 
-	-Delivered UAT documentation to recommended changes to applications. (MS Visio, PowerPoint)<br>
-	-Verified that Development & Testing teams adhere to Functional Requirements and performed root cause analysis on delays in fulfilment of deliverables. <br>
-	-Assisted product managers, data analysts and other business teams in completing business deliverables."
+  details: "-  Created & updated Business requirements, converting them into reports, visualizations and design documents.<br>
+	-  Performed data analysis and built predictive models (MySQL, Excel, R –Hypothesis testing, ANOVA, Regression)<br>
+	-  Wrote SQL queries to pull the North Americas sales data and visualized the sales statistics. <br>
+	-  Developed Visualizations using Cross tables, Bar Charts, Pie Charts, Donuts Charts, Maps, Line Charts, Scatter Plots and Filters, Marking, Drill Down, Hierarchies and Colouring. (Tableau, R - ggplot)<br>
+	-  Joined tables, created charts and performed advanced calculations using Excel VLOOKUP and pivot table.<br>
+	-  Used ETL process and developed OLAP cube to analyse the region wise product sales.<br>
+	-  Created test plans, test cases, test scripts for User Acceptance Testing, Regression testing & Integration testing.<br> 
+	-  Delivered UAT documentation to recommended changes to applications. (MS Visio, PowerPoint)<br>
+	-  Verified that Development & Testing teams adhere to Functional Requirements and performed root cause analysis on delays in fulfilment of deliverables. <br>
+	-  Assisted product managers, data analysts and other business teams in completing business deliverables."
 - experience:
   role: Business Data Analyst 
   time: Dec 2012 - Jul 2015
